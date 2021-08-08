@@ -16,7 +16,7 @@ const App = () => {
 		const response = await api.get(termoPesquisa, {
 			headers: { 
 				'Content-Type': 'application/json',
-				'Authorization': ' Bearer {{token}}'
+				'Authorization': ' Bearer AAAAAAAAAAAAAAAAAAAAAEmQSQEAAAAAMLObUZqod7msJwnzu2E2qTTPdxk%3DrYOxRyrEdhyRLO0cbF5Ff7bvdaLGHVRjHVeQbwuppJazRxui6S'
 			}
 		})
 		if(response.status === 200) {
