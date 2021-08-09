@@ -2,7 +2,7 @@
 ### Aplicação desenvolvida para teste na empresa Linx
 
 ################################ Recomendações
-### API do Twitter não disponibiliza solicitaçãos a vindas de localhost, https://cors-anywhere.herokuapp.com foi utilizado para realizar os testes via maquina local.
+### API do Twitter não disponibiliza solicitações vindas de localhost, https://cors-anywhere.herokuapp.com foi utilizado para realizar os testes via maquina local.
 ![cors-anywhere](https://user-images.githubusercontent.com/53841377/128656443-b506613b-e94e-475f-8af9-a3a6c0d5daf9.png)
 
 ### Acessar o link https://cors-anywhere.herokuapp.com e clicar no botão para obter acesso, assim o conseguirá obter acesso através de maquina local
