@@ -12,6 +12,7 @@
 ![ayarn start](https://user-images.githubusercontent.com/53841377/128658579-ec664789-8189-4f98-945e-14ee268a8950.png)
 
 ### App
-![app](https://user-images.githubusercontent.com/53841377/128658603-f7fcf95d-0891-4ff0-90de-35b7f039df6e.png)
+![hehe](https://user-images.githubusercontent.com/53841377/129656621-1046d134-68ab-4996-8d58-fec3482f45c5.png)
+
 
 
