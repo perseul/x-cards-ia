@@ -1,5 +1,4 @@
-### Perseul Yerevan Dias Meira
-### Aplicação desenvolvida para teste na empresa Linx
+### Aplicação que lista em forma de “cards” os principais tweets de hashtags informadas pelo usuário em um campo texto.
 
 ################################ Recomendações
 ### API do Twitter não disponibiliza solicitações vindas de localhost, https://cors-anywhere.herokuapp.com foi utilizado para realizar os testes via maquina local.
